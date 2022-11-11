@@ -17,5 +17,6 @@ By using various data visualization tools we are going to plot the graphs of the
 
 Data Source: https://www.kaggle.com/datasets/kunal28chaturvedi/covid19-and-its-impact-on-students
 
-![image](https://user-images.githubusercontent.com/114132172/201259096-77812ecb-8b55-473b-8e66-ec6486606f82.png)
+![image](https://user-images.githubusercontent.com/114132172/201403812-b3823c65-f2bd-4679-95e3-71d8e23fc007.png)
+
 
