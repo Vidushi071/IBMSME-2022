@@ -28,3 +28,8 @@ Then by performing some basic calculations, and by calculating the total Screen 
 
 Utilized the idea of data storytelling and used visualization tools to portray the workflow in graphical manner.
 
+Some of the conclusions drawn from the data are listed below:
+1. Impact of Covid 19 on Health: During COVID 19,  students' screen usage rose but it did not significantly affect their weight and sleep pattern. Also
+   the students who indulged in fitness activities during Covid-19 period did not see any change in their weight.
+
+
