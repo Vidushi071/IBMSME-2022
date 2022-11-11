@@ -32,9 +32,11 @@ Some of the conclusions drawn from the data are listed below:
 1. Impact of Covid 19 on Health: During COVID 19,  students' screen usage rose but it did not significantly affect their weight and sleep pattern. Also
    the students who indulged in fitness activities during Covid-19 period did not see any change in their weight.
    
-2.  Impact of Covid 19 on Education: Online lessons during Covid-19 period were most frequently taken on laptops or desktop computers. The analysis shows 
-    that even though online classes were the optimal solution during the COVID 19 period, yet most of the students did not enjoy the experience.
-    Additionally, we can also conclude that social media had a big impact on students' academic performance throughout the lockdown.  
+2. Impact of Covid 19 on Education: Online lessons during Covid-19 period were most frequently taken on laptops or desktop computers. The analysis shows 
+   that even though online classes were the optimal solution during the COVID 19 period, yet most of the students did not enjoy the experience.
+   Additionally, we can also conclude that social media had a big impact on students' academic performance throughout the lockdown.  
+   
+3. Usage and effect of Social Media during Covid-19: During COVID 19 period , the three most popular social media networks were YouTube, Instagram, and            WhatsApp.
 
 
 
