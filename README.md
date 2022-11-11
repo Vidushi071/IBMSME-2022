@@ -38,5 +38,7 @@ Some of the conclusions drawn from the data are listed below:
    
 3. Usage and effect of Social Media during Covid-19: During COVID 19 period , the three most popular social media networks were YouTube, Instagram, and            WhatsApp.
 
+Through our analysis, we came to the conclusion that  the Covid-19 outbreak has made a significant impact on the health, education, and daily routine of students. We analyzed various digital social media tools used by students as a self-management strategy for health. Our analysis addresses key concerns related to online education and health due to the Covid-19 pandemic. Limited class interaction and inefficient time table significantly affected the satisfaction levels among students. The peer-to-peer impact in the school environment motivates individuals to work hard and learn social skills, which may not be possible in an online setting during the Covid.
+
 
 
