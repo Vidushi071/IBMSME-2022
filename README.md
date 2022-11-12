@@ -32,8 +32,6 @@ Some of the conclusions drawn from the data are listed below:
 1. Impact of Covid 19 on Health: During COVID 19,  students' screen usage rose but it did not significantly affect their weight and sleep pattern. Also
    the students who indulged in fitness activities during Covid-19 period did not see any change in their weight.
    
-The link of the website: https://vidushi071.github.io/IBMSME-2022/
-   
 2. Impact of Covid 19 on Education: Online lessons during Covid-19 period were most frequently taken on laptops or desktop computers. The analysis shows 
    that even though online classes were the optimal solution during the COVID 19 period, yet most of the students did not enjoy the experience.
    Additionally, we can also conclude that social media had a big impact on students' academic performance throughout the lockdown.  
@@ -42,5 +40,7 @@ The link of the website: https://vidushi071.github.io/IBMSME-2022/
 
 Through our analysis, we came to the conclusion that  the Covid-19 outbreak has made a significant impact on the health, education, and daily routine of students. We analyzed various digital social media tools used by students as a self-management strategy for health. Our analysis addresses key concerns related to online education and health due to the Covid-19 pandemic. Limited class interaction and inefficient time table significantly affected the satisfaction levels among students. The peer-to-peer impact in the school environment motivates individuals to work hard and learn social skills, which may not be possible in an online setting during the Covid.
 
+
+The link of the website: https://vidushi071.github.io/IBMSME-2022/
 
 
