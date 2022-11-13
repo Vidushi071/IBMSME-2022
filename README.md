@@ -1,11 +1,11 @@
 # IBMSME-2022 
 
-#DAY-1 9th November 2022    Data Source
+## DAY-1 9th November 2022    Data Source
 
 Data Source Link: https://www.kaggle.com/datasets/kunal28chaturvedi/covid19-and-its-impact-on-students
 
 
-#DAY-2 10th November2022    WorkFlow 
+## DAY-2 10th November2022    WorkFlow 
 
 Workflow is a series of inter-dependent tasks that are needed to be followed in order to achieve a desired output.
 
@@ -24,7 +24,7 @@ Then by performing some basic calculations, and by calculating the total Screen 
 ![image](https://user-images.githubusercontent.com/114132172/201403812-b3823c65-f2bd-4679-95e3-71d8e23fc007.png)
 
 
-#DAY-3 11th November 2022    Data Visualization
+## DAY-3 11th November 2022    Data Visualization
 
 Utilized the idea of data storytelling and used visualization tools to portray the workflow in graphical manner.
 
